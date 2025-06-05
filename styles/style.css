@@ -3,7 +3,10 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-image: url(../images/1.jpg)  ;
+  background-image: url(../images/1.jpg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 3%;
 }
 header nav ul{
   display: flex;
@@ -51,4 +54,7 @@ footer{
   background-image: url(../images/2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+}
+body{
+  
 }
