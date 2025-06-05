@@ -7,6 +7,7 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   padding: 3%;
+  margin: 2%;
 }
 header nav ul{
   display: flex;
